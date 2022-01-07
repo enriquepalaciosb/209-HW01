@@ -1,0 +1,16 @@
+/* Heading font */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/* List font */
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body {
+    margin: 50px;
+    font-family: 'Playfair Display', serif;
+    font-size: 150%;
+}
+ul {
+    color: red;
+    font-family: 'Inter', sans-serif;
+}
+hr {
+    color: seashell;
+}
